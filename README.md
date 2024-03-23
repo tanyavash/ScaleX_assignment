@@ -14,11 +14,11 @@ For the Database Management aspect, A MongoDB Atlas cluster was set up and a sch
 ## Completion
 The tasks were completed diligently, following the outlined requirements and guidelines. Comprehensive testing was carried out to verify the functionality and accuracy of both API endpoints and database operations.
 
-**Best Regards,**
-Tanya Vashistha
-7011202277 /n
-Resume:  [https://drive.google.com/file/d/1c0M2qi_bVSlVxhjkN3vNQJYOxPT3jhMb/view?usp=sharing] /n
-Linkedin: [https://www.linkedin.com/in/tanya-vashistha-508974230/]
+**Best Regards,**  
+Tanya Vashistha  
+7011202277  
+Resume: [Resume](https://drive.google.com/file/d/1c0M2qi_bVSlVxhjkN3vNQJYOxPT3jhMb/view?usp=sharing)  
+Linkedin: [Linkedin](https://www.linkedin.com/in/tanya-vashistha-508974230/)  
 
 
 
